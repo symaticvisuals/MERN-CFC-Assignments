@@ -7,7 +7,6 @@ function factorial(number) {
     }
     return fact;
 }
-console.log(factorial(5,1));
 let n = 5;
 let row = 0;
 while (row < n) {
